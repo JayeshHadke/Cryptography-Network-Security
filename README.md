@@ -24,6 +24,9 @@
 In our daily life, we are using internet in uncountable times and for that, data has to receive and send from our devices and once it has entered into the Internet we don't know how it will act. And there are many peoples who can steal your data from internet and can send data to us thorugh internet. To protect your data, devices, organization, Infrastructure from this type of attacks, We need some security function which will help to protect our data.
 At this time, Network Security plays a vital role to secure us and Cryptography is used to hide our information in human unreadable formate so that ,if in case data has stolen then they cannot understand it and use it by some encryption techniques. 
 
+**Defination**
+
+The protection afforeded to an automated information system in ordered to attain the application objectives of preserving the INTEGRITY, AVAILABILITY and CONFIDENTIALITY of information system.
 
 **CIA Tried**
 ![CIA Tried](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-19%20194857.png)
@@ -43,4 +46,6 @@ CIA is nothing but,
       - timingly and realiable connection
       - deals with DOS (denial of services)
 
-     
+  ** What is Threat and Attack?**
+  
+  *Threat*, A potential for voliation of security which exists when there is a circumstances, capability ,action or event that could breach security and cause harm. That is, a threat is a possible danger that might exploit a valnerability.
