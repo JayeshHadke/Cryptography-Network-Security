@@ -41,5 +41,6 @@ CIA is nothing but,
       
   - Availability 
       - timingly and realiable connection
-      - deals with DOS (denail of services)
+      - deals with DOS (denial of services)
+
      
