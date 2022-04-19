@@ -74,3 +74,18 @@ Types are :
     - modification of data 
     - false data stream can be shared
  
+ Passive Attack
+ - Release of message contents
+    - attacker can see a data transfer between sender and receiver without knowing them
+ - Traffic Analysis (when data is send in encrypted formate)
+    - observe a pattern of data flow and other details
+ 
+ Active Attack
+ - Masquerade
+    - acting as a original entity but actually it is hacker how is pretenting to be a authorize user
+ - Replay
+    - sending same messages so that end user may misdirect and do what hacker wants
+ - Modification of Messages
+    - hacker act as a intermediate between sender and receiver so that they can modify, replay or delay data
+ - Denial of Service (DoS)
+    - hacker force a server in such a way that, server doesnot respond to user or make a system in which user doesnot allowed to enter
