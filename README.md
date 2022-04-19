@@ -26,4 +26,9 @@ At this time, Network Security plays a vital role to secure us and Cryptography 
 
 
 **CIA Tried**
+![CIA Tried](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-19%20194857.png)
 
+CIA is nothing but, 
+  - Confidentiality
+  - Integrity
+  - Availability 
