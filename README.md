@@ -63,3 +63,14 @@ OSI Architecture has main three sectors,
 - Security Service
     - Enhance the security encounter security attack and provide the services
 
+**Security Attack**
+
+Types are :
+
+- Passive Attack
+    - only data observation
+    - no data Modification
+- Active Attack
+    - modification of data 
+    - false data stream can be shared
+ 
