@@ -46,6 +46,19 @@ CIA is nothing but,
       - timingly and realiable connection
       - deals with DOS (denial of services)
 
-  **What is Threat and Attack?**
+**What is Threat and Attack?**
   
   *Threat*, A potential for voliation of security which exists when there is a circumstances, capability ,action or event that could breach security and cause harm. That is, a threat is a possible danger that might exploit a valnerability.
+  
+  *Attack*, An assault on system that derives from an intelligent threat, that is an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system.
+  
+  
+**OSI MODEL (OPEN SYSTEM INTERCONNECTION MODEL) ARCHITECTURE**
+
+OSI Architecture has main three sectors,
+- Security Attack
+    - Action that compromises the security
+- Security Mechanism
+    - Detect, Prevent, or Recover from a security attack
+- Security Service
+    - Enhance the security encounter security attack and provide the services
