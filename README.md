@@ -74,13 +74,13 @@ Types are :
     - modification of data 
     - false data stream can be shared
  
- Passive Attack
+ *Passive Attack*
  - Release of message contents
     - attacker can see a data transfer between sender and receiver without knowing them
  - Traffic Analysis (when data is send in encrypted formate)
     - observe a pattern of data flow and other details
  
- Active Attack
+ *Active Attack*
  - Masquerade
     - acting as a original entity but actually it is hacker how is pretenting to be a authorize user
  - Replay
