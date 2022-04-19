@@ -1,6 +1,6 @@
 # Cryptography-Network-Security
 
-### INDEX
+## INDEX
 **1. Introduction to Cryptography**
 
 **2. Abstract Algebra and Number Theory**
@@ -53,7 +53,7 @@ CIA is nothing but,
   *Attack*, An assault on system that derives from an intelligent threat, that is an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system.
   
   
-**OSI MODEL (OPEN SYSTEM INTERCONNECTION MODEL) ARCHITECTURE**
+### OSI MODEL (OPEN SYSTEM INTERCONNECTION MODEL) ARCHITECTURE
 
 OSI Architecture has main three sectors,
 - Security Attack
@@ -62,3 +62,4 @@ OSI Architecture has main three sectors,
     - Detect, Prevent, or Recover from a security attack
 - Security Service
     - Enhance the security encounter security attack and provide the services
+
