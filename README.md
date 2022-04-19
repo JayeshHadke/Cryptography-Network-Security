@@ -82,7 +82,7 @@ Types are :
  
  *Active Attack*
  - Masquerade
-    - acting as a original entity but actually it is hacker how is pretenting to be a authorize user
+    - acting as a original entity but actually it is hacker, who is pretenting to be a authorize user
  - Replay
     - sending same messages so that end user may misdirect and do what hacker wants
  - Modification of Messages
