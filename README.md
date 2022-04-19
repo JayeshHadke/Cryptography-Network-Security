@@ -30,5 +30,16 @@ At this time, Network Security plays a vital role to secure us and Cryptography 
 
 CIA is nothing but, 
   - Confidentiality
+      - shared data should be understanable by sender and receiver only
+      - deals with unauthorized access
+      - avoid data discloser 
+     
   - Integrity
+      - SEND = RECEIVER
+      - no modification of data should done between a data transfer or data share
+      - if in case data is accessed by unauthorized person then the data should be in such a way so that data is ununderstanable to that person
+      
   - Availability 
+      - timingly and realiable connection
+      - deals with DOS (denail of services)
+     
