@@ -46,6 +46,6 @@ CIA is nothing but,
       - timingly and realiable connection
       - deals with DOS (denial of services)
 
-  ** What is Threat and Attack?**
+  **What is Threat and Attack?**
   
   *Threat*, A potential for voliation of security which exists when there is a circumstances, capability ,action or event that could breach security and cause harm. That is, a threat is a possible danger that might exploit a valnerability.
