@@ -162,11 +162,15 @@ At both the ends of Transmission, data needs to be transform in a such a way tha
 
 We used a word called Transform, because we have many types of algorithm to form cipher data / secured data .
 
+We can see Opponent is mentioned and can access your data when data trasmission takes place thought transmission medium. Opponents are the those who wanted to steal your information and they can only get this during a data transmission.
+
 Onces a transformed data is ready which is called as Secured Data, data transmission takes place to send a data. As you can see there is a Trusted Third Party is mentioned in the diagram, It is use to make a Trusted / Secured Connection between two ends (Specially Use for Banking Perpose) and gives SSL(Secure Sockets Layer) certificate to the end users, about this we will discuss in last module.
+
 
 **Four Major Task Of Security Model**
 
 - Design an Algorithm
 - Generate the Secret Key
-- Develop a methods for Distribution of Security Info and Sharing of Information
+- Develop a methods for Distribution of Security Info (Specially in Symmetric Encryption / Cryptography) and Sharing of Information
 - Specify a protocol
+
