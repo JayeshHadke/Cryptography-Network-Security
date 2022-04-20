@@ -138,10 +138,10 @@ The processing or communication service taht is provided by a system to give a s
 
 Types : 
 
--Authentication
+- Authentication
     - proves Identity of user
-       - Peer Entity Authentication (authentication of each peer router so that no external or dummy router can send data from it)
-       - Data Entity Authentication (authentication of each data onces it received at receiver side)
+        - Peer Entity Authentication (authentication of each peer router so that no external or dummy router can send data from it)
+        - Data Entity Authentication (authentication of each data onces it received at receiver side)
 - Access Control
     - rights for resources are derived for specific custormers
 - Data Confidentiality
