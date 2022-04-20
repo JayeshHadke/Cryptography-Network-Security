@@ -150,3 +150,23 @@ Types :
     - no modification should done in between data transmission
 - Non-Repudation
     - protecting against denial of any enetity in communication after data transmitted and received
+
+
+### Network Security Model
+
+![Network Security Model](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20003555.png)
+
+In this model we are going to study, How a secured network works to prevent any type of vulnerable attack.
+
+At both the ends of Transmission, data needs to be transform in a such a way that it should not be understanble to any one rather than receiver. And original data / transformed data tranformation is takes place with the help of Security Info to form Secured Data / Original Data. 
+
+We used a word called Transform, because we have many types of algorithm to form cipher data / secured data .
+
+Onces a transformed data is ready which is called as Secured Data, data transmission takes place to send a data. As you can see there is a Trusted Third Party is mentioned in the diagram, It is use to make a Trusted / Secured Connection between two ends (Specially Use for Banking Perpose) and gives SSL(Secure Sockets Layer) certificate to the end users, about this we will discuss in last module.
+
+**Four Major Task Of Security Model**
+
+- Design an Algorithm
+- Generate the Secret Key
+- Develop a methods for Distribution of Security Info and Sharing of Information
+- Specify a protocol
