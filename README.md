@@ -97,9 +97,9 @@ Security Mechanism is a set of framework / protocol to follow to ensure a truste
 Types :
 
 - Specific Security Mechanism
-    - security rules design for specific layers
+    - security rules design for OSI model
 - Prevasive Security Mechanism
-    - security rules design for all types of layers (a standard rules of every Security Mechanism must have)
+    - security rules design for all types of models (a standard rules of every Security Mechanism must have)
 
 
 *Specific Security Mechanism*
