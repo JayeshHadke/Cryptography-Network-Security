@@ -148,5 +148,5 @@ Types :
     - only sender and receiver should understand a transmitted data
 - Data Integrity
     - no modification should done in between data transmission
-- Non-repudation
+- Non-Repudation
     - protecting against denial of any enetity in communication after data transmitted and received
