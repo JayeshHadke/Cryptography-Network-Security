@@ -89,3 +89,45 @@ Types are :
     - hacker act as a intermediate between sender and receiver so that they can modify, replay or delay data
  - Denial of Service (DoS)
     - hacker force a server in such a way that, server doesnot respond to user or make a system in which user doesnot allowed to enter
+
+***Security Mechanism***
+
+Security Mechanism is a set of framework / protocol to follow to ensure a trusted network connectivity and to implement secuirty policies.
+
+Types :
+
+- Specific Security Mechanism
+    - security rules design for specific layers
+- Prevasive Security Mechanism
+    - security rules design for all types of layers (a standard rules of every Security Mechanism must have)
+
+
+*Specific Security Mechanism*
+- Encipherment
+    - hiding a plaintext into unreadable formate so that only sender and receiver can read that
+- Digital Signature
+    - a peace of code is send into a packets to authenticate a trusted sender / receiver and helps in data integrity
+- Access Control
+    - rights to resources are derived for specific users
+- Data Integrity
+    - no data modification during data transmission in internet
+- Authentication Exchange
+    - continous authentication of pear routers to ensure other than pear router no one should transmite data from a router 
+- Traffic Padding
+    - making a dummy data stream line to confuse a enternal entities and the stream doesnot affects to original data stream in communication
+- Routing Control
+    - manually change a transmission route in internet so that data should not flow from any unknown nodes
+- Notarization
+    - deloy any trusted third party to secure connection in internet
+ 
+*Pervasive Security Mechanism*
+- Trusted Functionality
+    - authorize action in resources using some criteria / rules
+- Security Lables
+    - identifing an action result is valid or invalid
+- Event Detection
+    - each action are captured and each action is identified as either Normal event or Suspesious event
+- Security Audit Trail
+    - identifing actor of each action by looking at system log files
+- Security Recovery
+    - if in case, any attack has been take place, then a machanism to recover it to it's original / previous state
