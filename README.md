@@ -40,7 +40,7 @@ CIA is nothing but,
   - Integrity
       - SEND = RECEIVER
       - no modification of data should done between a data transfer or data share
-      - if in case data is accessed by unauthorized person then the data should be in such a way so that data is ununderstanable to that person
+      - if in case data is accessed by unauthorized person then the data should be in such a way that data is ununderstanable to that person
       
   - Availability 
       - timingly and realiable connection
