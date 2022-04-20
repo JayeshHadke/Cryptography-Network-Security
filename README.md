@@ -140,4 +140,13 @@ Types :
 
 -Authentication
     - proves Identity of user
-_ 
+        - Peer Entity Authentication - authentication of each peer router so that no external or dummy router can send data from it
+        - Data Entity Authentication - authentication of each data onces it received at receiver side
+- Access Control
+    - rights for resources are derived for specific custormers
+- Data Confidentiality
+    - only sender and receiver should understand a transmitted data
+- Data Integrity
+    - no modification should done in between data transmission
+- Non-repudation
+    - protecting against denial of any enetity in communication after data transmitted and received
