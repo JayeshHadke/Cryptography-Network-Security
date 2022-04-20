@@ -131,3 +131,13 @@ Types :
     - identifing actor of each action by looking at system log files
 - Security Recovery
     - if in case, any attack has been take place, then a machanism to recover it to it's original / previous state
+
+**Security Services**
+
+The processing or communication service taht is provided by a system to give a specific kind of protection to system resources; security services implements security policies and are implemented by security mechanism
+
+Types : 
+
+-Authentication
+    - proves Identity of user
+_ 
