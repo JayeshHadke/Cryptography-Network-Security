@@ -243,7 +243,8 @@ Types :
 
 *Caesor Cipher*
 
-Each letters are replaced with Numbers.
+- Each letters are replaced with Numbers.
+
 
 C = cipher text letter
 
