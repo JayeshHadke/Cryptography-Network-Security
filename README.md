@@ -197,5 +197,5 @@ Main Purpose of Cryptography
     - alogrithm used for encryption is in such a way that, it should not be decrypted without a key 
     - key must be strong key so that no one can even crack it
 - Compitationally Secured
-    - time requried to break a cipher / key must be more than the duration of transmitted data is valid in real world.
+    - time requried to break a cipher data / key must be more than the duration of transmitted data is valid in real world.
     - a cost requied to break a cipher text should be more than cost required to encrypt the data
