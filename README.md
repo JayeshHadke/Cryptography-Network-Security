@@ -247,7 +247,6 @@ Types :
 - Each letters are replaced with Numbers.
 
 
-
 C = cipher text letter
 
 p = plain text letter
@@ -270,3 +269,13 @@ Algorithm for Decryption ,
 ***p = D(C,k) mod 26***             for C >= 3
 
 ***p = 26 - ( D(C,k) mod 26 )***      for C < 3 && C >= 0
+
+![MORE EXAMPLES](https://www.javatpoint.com/caesar-cipher-technique)
+
+
+*Monoalphabetic Cipher*
+
+- mapping a plaintext letters with Language letters to form a Cipher Text using permutation.
+- onces any plain text letter maps to language letter, then mapped letter should not use for any another plaintext 
+
+![MORE EXAMPLE](https://www.101computing.net/mono-alphabetic-substitution-cipher/)
