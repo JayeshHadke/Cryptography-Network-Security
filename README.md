@@ -191,3 +191,11 @@ Types :
     - ![Asymmetric Cryptography](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20012503.png)
     - different kay is used for encryption and decryption 
     - also called as public key cryptography
+
+Main Purpose of Cryptography
+- Unconditionally Secured
+    - alogrithm used for encryption is in such a way that, it should not be decrypted without a key 
+    - key must be strong key so that no one can even crack it
+- Compitationally Secured
+    - time requried to break a cipher / key must be more than the duration of transmitted data is valid in real world.
+    - a cost requied to break a cipher text should be more than cost required to encrypt the data
