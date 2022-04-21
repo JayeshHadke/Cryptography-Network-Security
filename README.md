@@ -246,10 +246,15 @@ Types :
 Each letters are replaced with Numbers.
 
 C = cipher text letter
+
 p = plain text letter
+
 k = 3 (for ceasor cipher)
+
 E(a,b) = a + b
+
 D(a,b) = a - b
+
 
 Algorithm for Encryption ,
 
