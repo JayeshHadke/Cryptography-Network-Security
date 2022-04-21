@@ -263,6 +263,6 @@ p = plain text letter
 k = 3 (for ceasor cipher)
 D(a,b) = a - b
 
-**p = D ( C - k ) mod 26**                for C >= 3
+**p = D(C,k) mod 26**              --for C >= 3
 
-**p = 26 - ( D ( C - k ) mod 26 )**       for C < 3 & C >= 0
+**p = 26 - (D(C,k) mod 26)**       --for C < 3 & C >= 0
