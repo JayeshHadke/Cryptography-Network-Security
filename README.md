@@ -245,23 +245,19 @@ Types :
 
 Each letters are replaced with Numbers.
 
-Algorithm for Encryption ,
-
 C = cipher text letter
 p = plain text letter
 k = 3 (for ceasor cipher)
 E(a,b) = a + b
+D(a,b) = a - b
+
+Algorithm for Encryption ,
 
 **C = E ( p , k ) mod 26** 
 
 > Ceasor Cipher is also called as *Shift Cipher* with k as 3, if k value is other than 3 then algorithm called as Shift Cipher.
 
 Algorithm for Decryption ,
-
-C = cipher text letter
-p = plain text letter
-k = 3 (for ceasor cipher)
-D(a,b) = a - b
 
 ***p = D(C,k) mod 26***             for C >= 3
 
