@@ -241,9 +241,11 @@ Types :
 - Row Column Transposition
 
 
+
 *Caesor Cipher*
 
 - Each letters are replaced with Numbers.
+
 
 
 C = cipher text letter
