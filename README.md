@@ -177,3 +177,17 @@ Onces a transformed data is ready which is called as Secured Data, data transmis
 
 ### Cryptography
 
+The art or science encomprassing the principles and methods of transforming an intelligible message into one that is uninelligible and then retransformation and then retransformating the message back to its original form.
+
+![Cryptography](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20011710.png)
+
+Types : 
+
+- Symmetric Cryptography 
+    - ![Symmetric Cryptography](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20012251.png)
+    - same key is used for encryption and decryption 
+    - also called as private key cryptography
+- Asymmetric Cryptography
+    - ![Asymmetric Cryptography](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20012503.png)
+    - different kay is used for encryption and decryption 
+    - also called as public key cryptography
