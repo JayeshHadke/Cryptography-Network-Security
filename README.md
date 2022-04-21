@@ -206,5 +206,39 @@ Main Purpose of Cryptography
  - Sharing of public key takes place with the help of any Trusted Thired Party Services.
  - A cipher text is encrypted using Receivers Public key and can decrypte using receivers private key.
  
+ > Public key which is create by receiver for transformation in sender side has assocication with receivers Private key. 
  
+### Classical Encryption Techniques
+
+A simple and basic encryption techniques used to transform a data in Cipher Text. Now a days, we are not using this type of encryption techniques Because these are the basic and oldest encryption techniques which is easy to decrypt using Cryptoanalysis or Brute Force Techniques.
+
+
+Types : 
+
+- Substitution Techniques
+    - in this technique, each letter is replaced by any another sysmbol or number
+    - same data should not reapeat
+- Transformation Techniques
+    - sort of permutation is used to make a different cipher text with same text but with arrangements
+
+
+**Substitution Techniques**
+
+Types : 
+
+- Caesor Cipher
+- Monoalphabetic Cipher
+- PlayFair Cipher
+- Hill Cipher
+- Polyalphabetic Cipher
+- One Time Pad
+
+**Transposition Technique**
+
+Types :
+
+- Rail Fence 
+- Row Column Transposition
+
+
  
