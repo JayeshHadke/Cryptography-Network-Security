@@ -202,7 +202,7 @@ Main Purpose of Cryptography
  
  *Asymmetric Cryptography*
  
- - To transmitte a data, receiver should have two keys a Public key, and a Private key and sender should cipher plain text using receivers public key. 
+ - To transmitte a data, receiver should have two keys a Public key, and a Private key and sender should make cipher text from plain text using receivers public key. 
  - Sharing of public key takes place with the help of any Trusted Thired Party Services.
  - A cipher text is encrypted using Receivers Public key and can decrypte using receivers private key.
  
