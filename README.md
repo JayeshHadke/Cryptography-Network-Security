@@ -311,6 +311,11 @@ Encryption Algorithm
 - firstly, we make a pair of three letters of plaintext in a row. Ex, [ p1, p2, p3 ]
 - make a square matrix of key text 
 - then multipy both of the matrix and do mod 26 
-  ![Encryption](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100642.png)
+- Equation for encryption
+  ![Equation](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100644.png)
+- Simplified Form
+  ![Simplified Encryption](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100642.png)
   
-  For Decryption, for K^-1 [Refer More](https://byjus.com/maths/inverse-matrix/) 
+  Decryption Algorithm
+  - Equation ![Equation](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100645.png)
+  - K^-1 [Refer More](https://byjus.com/maths/inverse-matrix/) 
