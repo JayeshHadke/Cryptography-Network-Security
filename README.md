@@ -312,3 +312,5 @@ Encryption Algorithm
 - make a square matrix of key text 
 - then multipy both of the matrix and do mod 26 
   ![Encryption](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100642.png)
+  
+  For Decryption, for K^-1 [Refer More](https://byjus.com/maths/inverse-matrix/) 
