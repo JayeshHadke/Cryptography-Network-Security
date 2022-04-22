@@ -245,6 +245,7 @@ Types :
 *Caesor Cipher*
 
 - Each letters are replaced with Numbers.
+- ![Each Letter Maps to a Number](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-21%20192735.png)
 
 
 C = cipher text letter
@@ -279,3 +280,22 @@ Algorithm for Decryption ,
 - onces any plain text letter maps to language letter, then mapped letter should not use for any another plaintext 
 
 [MORE EXAMPLE](https://www.101computing.net/mono-alphabetic-substitution-cipher/)
+
+
+*Play Fair Cipher*
+
+- manuall encryption and decryption technique
+- firstly invested diagrammatic cipher technique
+
+Algorithm
+- 5 X 5 matrix is used for both encryption and decryption and ciphering is done with the help of key
+- while creating a matrix, we to make it in such away that, Intially we must put the key for encryption / decryption in matrix with no repeating letters and after filling all the letters of key, start filling all alphabets from A to Z but no letter should repeat in matrix. If any letters is already there in matrix, then no need to place it again in matrix. And I and J place in same block always, Because in English we have 26 alpahbets and for matrix we have just 25 blocks in it, so we usally place I and J together in a same same block.
+- we have to make pair of two letters pairs of plaintext 
+    - if in a pair, both the letters are same then we should add filler element in between (filler element - X)
+    - if a plaintext consists of odd numbers of letters then, at the end of the plaintext we must add filler element to make pairs of two letters 
+- Encryption 
+    - Rules
+        - if both the letters are in same row, then cipher text letters for respectives letters are the next right letters in same row of matrix [](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20065512.png)
+        - if both the letters are in same column, then cipher text letters for respective letters are the below next letters in same column of matrix 
+        - if both the letters forms a rectangle, then cipher text for respective letters are the opposite letters in ractangle of matrix
+
