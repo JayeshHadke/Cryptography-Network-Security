@@ -304,8 +304,11 @@ Algorithm
 
 *Hill Cipher*
 
-- encryption technique uses Matrix to form ciphertext
+- encryption technique uses Matrix Multiplication to form ciphertext
 
 
-Algorithm
-- we make 
+Encryption Algorithm
+- firstly, we make a pair of three letters of plaintext in a row. Ex, [ p1, p2, p3 ]
+- make a square matrix of key text 
+- then multipy both of the matrix and do mod 26 
+  ![Encryption](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20100642.png)
