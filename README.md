@@ -295,7 +295,10 @@ Algorithm
     - if a plaintext consists of odd numbers of letters then, at the end of the plaintext we must add filler element to make pairs of two letters 
 - Encryption 
     - Rules
-        - if both the letters are in same row, then cipher text letters for respectives letters are the next right letters in same row of matrix [](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20065512.png)
-        - if both the letters are in same column, then cipher text letters for respective letters are the below next letters in same column of matrix 
-        - if both the letters forms a rectangle, then cipher text for respective letters are the opposite letters in ractangle of matrix
+        - if both the letters are in same row, then cipher text letters for respectives letters are the next right letters in same row of matrix. Ex, If A and C is in a pair and in matrix both are in same row then respective Cipher text B and D  
+          ![Rule-1](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20065512.png)
+        - if both the letters are in same column, then cipher text letters for respective letters are the below next letters in same column of matrix. Ex, If A and C is in a pair and in matrix both are in same column then respective Cipher text A and L  
+          ![Rule-2](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20070112.png)
+        - if both the letters forms a rectangle, then cipher text for respective letters are the opposite letters in ractangle of matrix. Ex, If O and W is in a pair and forms a rectangle in matrix then respective Cipher text is opposite letter in matrix which is M and Y  
+          ![Rule-3](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20070556.png)
 
