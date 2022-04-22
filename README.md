@@ -289,7 +289,7 @@ Algorithm for Decryption ,
 
 Algorithm
 - 5 X 5 matrix is used for both encryption and decryption and ciphering is done with the help of key
-- while creating a matrix, we to make it in such away that, Intially we must put the key for encryption / decryption in matrix with no repeating letters and after filling all the letters of key, start filling all alphabets from A to Z but no letter should repeat in matrix. If any letters is already there in matrix, then no need to place it again in matrix. And I and J place in same block always, Because in English we have 26 alpahbets and for matrix we have just 25 blocks in it, so we usally place I and J together in a same same block.
+- while creating a matrix, we to make it in such away that, Intially we must put the key for encryption / decryption in matrix with no repeating letters and after filling all the letters of key, start filling all alphabets from A to Z but no letter should repeat in matrix. If any letters is already there in matrix, then no need to place it again in matrix. And I and J place in same block always, Because in English we have 26 alpahbets and for matrix we have just 25 blocks in it, so we usally place I and J together in a same same block. Ex. Key is JAYESH then matrix is ![Matrix](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20071327.png)
 - we have to make pair of two letters pairs of plaintext 
     - if in a pair, both the letters are same then we should add filler element in between (filler element - X)
     - if a plaintext consists of odd numbers of letters then, at the end of the plaintext we must add filler element to make pairs of two letters 
