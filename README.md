@@ -302,3 +302,10 @@ Algorithm
         - if both the letters forms a rectangle, then cipher text for respective letters are the opposite letters in ractangle of matrix. Ex, If O and W is in a pair and forms a rectangle in matrix then respective Cipher text is opposite letter in matrix which is M and Y  
           ![Rule-3](https://github.com/JayeshHadke/Cryptography-Network-Security/blob/master/images/Screenshot%202022-04-22%20070556.png)
 
+*Hill Cipher*
+
+- encryption technique uses Matrix to form ciphertext
+
+
+Algorithm
+- we make 
