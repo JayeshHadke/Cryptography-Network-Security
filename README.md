@@ -262,6 +262,7 @@ D(a,b) = a - b
 Algorithm for Encryption ,
 
 **C = E ( p , k ) mod 26**
+
 **C = ( p + k ) mod 26**
 
 > Ceasor Cipher is also called as *Shift Cipher* with k as 3, if k value is other than 3 then algorithm called as Shift Cipher.
