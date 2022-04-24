@@ -134,7 +134,7 @@ Types :
 
 **Security Services**
 
-The processing or communication service taht is provided by a system to give a specific kind of protection to system resources; security services implements security policies and are implemented by security mechanism
+The processing or communication service that is provided by a system to give a specific kind of protection to system resources; security services implements security policies and are implemented by security mechanism
 
 Types : 
 
